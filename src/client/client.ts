@@ -1,5 +1,5 @@
 export async function fetchResource<T>(domain: string, name: string): Promise<T> {
-    const url = `https://${domain}.sessionize.com/${name}`;
+    const url = `https://${domain}.sessionize.com/api/${name}`;
     const response = await fetch(url);
 
     if (!response.ok) {
