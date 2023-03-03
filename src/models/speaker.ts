@@ -22,7 +22,7 @@
 //   "questionAnswers": []
 // }
 
-import { QuestionAnswer } from "./question";
+import type { QuestionAnswer } from "./question";
 
 export interface Speaker {
     id: string;
