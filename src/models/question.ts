@@ -6,5 +6,13 @@
 // }
 
 export interface Question {
+    id: number;
+    question: string;
+    questionType: string;
+    sort: number;
+}
 
+export interface QuestionAnswer {
+    questionId: number;
+    answerValue: string; // probably other things too but we've only got strings here
 }
