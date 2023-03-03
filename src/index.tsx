@@ -1,5 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
+import { App } from "./App";
 
 const rootEl = document.getElementById("app-root");
 
@@ -8,4 +9,4 @@ if (!rootEl) {
 }
 
 const root = createRoot(rootEl);
-root.render(<div>Hello, World!</div>);
+root.render(<App />);
