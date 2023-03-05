@@ -1,5 +1,6 @@
 import React from "react";
 import { useSchedule } from "../queries/schedule";
+import { SessionTable } from "./SessionTable";
 
 export interface ScheduleProps {
     domain: string;
@@ -16,7 +17,10 @@ export const Schedule: React.FC<ScheduleProps> = props => {
         return <div>oh no :(</div>;
     }
 
-    return <>
+    const schedule = scheduleQuery.data;
 
+    return <>
+        <h1>Sessions:</h1>
+        <SessionTable sessions={schedule.sessions} />
     </>;
 }
