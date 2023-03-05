@@ -1,4 +1,4 @@
-import { useQuery } from "@tanstack/react-query/build/lib/useQuery";
+import { useQuery } from "@tanstack/react-query";
 import type { EventData } from "../models/eventdata";
 
-export const useEventData = () => useQuery<EventData>(["data"]);
+export const useEventData = (domain: string) => useQuery<EventData>([domain, "data"]);
