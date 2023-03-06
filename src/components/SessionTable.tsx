@@ -1,5 +1,6 @@
 import React from "react";
 import { Session } from "../models/session";
+import { SpeakerEnum } from "./SpeakerEnum";
 
 export interface SessionTableProps {
     sessions: Session[];
@@ -22,6 +23,7 @@ export const SessionHeader: React.FC = () => <thead>
     <tr>
         <th>Time</th>
         <th>Title</th>
+        <th>Speakers</th>
     </tr>
 </thead>;
 
@@ -38,5 +40,6 @@ export const SessionRow: React.FC<SessionRowProps> = props => {
     return <tr>
         <td>{dateFormatter.formatRange(start, end)}</td>
         <td>{session.title}</td>
+        <td><SpeakerEnum ids={session.speakers}/></td>
     </tr>;
 }
