@@ -1,6 +1,5 @@
 import React from "react";
 import { Session } from "../models/session";
-import { SessionHeader, SessionRow } from "./SessionRow";
 
 export interface SessionTableProps {
     sessions: Session[];
@@ -13,4 +12,31 @@ export const SessionTable: React.FC<SessionTableProps> = props => {
             {props.sessions.map(session => <SessionRow key={session.id} session={session} />)}
         </tbody>
     </table>
+}
+
+export interface SessionRowProps {
+    session: Session;
+}
+
+export const SessionHeader: React.FC = () => <thead>
+    <tr>
+        <th>Time</th>
+        <th>Title</th>
+    </tr>
+</thead>;
+
+export const SessionRow: React.FC<SessionRowProps> = props => {
+    const { session } = props;
+
+    const dateFormatter = new Intl.DateTimeFormat(undefined, {
+        hour: "numeric",
+        minute: "numeric"
+    });
+    const start = new Date(session.startsAt);
+    const end = new Date(session.endsAt);
+
+    return <tr>
+        <td>{dateFormatter.formatRange(start, end)}</td>
+        <td>{session.title}</td>
+    </tr>;
 }

@@ -8,8 +8,13 @@ export const EventsSchedule: React.FC = () => {
     const domain = useContext(EventContext);
     const eventsQuery = useEvents(domain);
     const events = eventsQuery.events ?? [];
+
+    const dateFormatter = new Intl.DateTimeFormat(undefined, {
+        dateStyle: "full"
+    });
+
     const eventsByDate = useMemo(
-        () => groupBy(events, event => new Date(event.startsAt).toDateString()),
+        () => groupBy(events, event => dateFormatter.format(new Date(event.startsAt))),
         [events]
     );
 
