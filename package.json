@@ -10,6 +10,7 @@
   "author": "Dr Frankenstein <doktorfrankenstein@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/lodash.groupby": "^4.6.7",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "html-webpack-plugin": "^5.5.0",
@@ -23,6 +24,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^4.24.10",
+    "lodash.groupby": "^4.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.8.2"
