@@ -1,28 +1,23 @@
-import React, { useContext, useMemo } from "react";
+import React, { useContext } from "react";
 import { SessionTable } from "../components/SessionTable";
 import { EventContext } from "../context/EventContext";
-import type { Schedule } from "../models/schedule";
-import { useSchedule } from "../queries/schedule";
-
-const getEvents = (schedule?: Schedule) =>
-    schedule?.sessions.filter(session => !session.isServiceSession);
+import { useEvents } from "../queries/schedule";
 
 export const EventsSchedule: React.FC = () => {
     const domain = useContext(EventContext);
-    const scheduleQuery = useSchedule(domain);
-    const schedule = scheduleQuery.data;
-    const sessions = useMemo(() => getEvents(schedule), [schedule]);
+    const eventsQuery = useEvents(domain);
+    const events = eventsQuery.events;
 
-    if (scheduleQuery.isLoading) {
+    if (eventsQuery.isLoading) {
         return <div>Loading&hellip;</div>;
     }
 
-    if (scheduleQuery.isError || sessions === undefined) {
+    if (eventsQuery.isError || events === undefined) {
         return <div>oh no :(</div>;
     }
 
     return <>
         <h1>Sessions:</h1>
-        <SessionTable sessions={sessions} />
+        <SessionTable sessions={events} />
     </>;
 };
