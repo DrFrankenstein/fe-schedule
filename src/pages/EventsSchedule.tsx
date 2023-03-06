@@ -1,13 +1,11 @@
-import React from "react";
+import React, { useContext } from "react";
+import { SessionTable } from "../components/SessionTable";
+import { EventContext } from "../context/EventContext";
 import { useSchedule } from "../queries/schedule";
-import { SessionTable } from "./SessionTable";
 
-export interface ScheduleProps {
-    domain: string;
-}
-
-export const Schedule: React.FC<ScheduleProps> = props => {
-    const scheduleQuery = useSchedule(props.domain);
+export const EventsSchedule: React.FC = () => {
+    const domain = useContext(EventContext);
+    const scheduleQuery = useSchedule(domain);
 
     if (scheduleQuery.isLoading) {
         return <div>Loading&hellip;</div>;
@@ -23,4 +21,4 @@ export const Schedule: React.FC<ScheduleProps> = props => {
         <h1>Sessions:</h1>
         <SessionTable sessions={schedule.sessions} />
     </>;
-}
+};

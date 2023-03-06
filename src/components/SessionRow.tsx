@@ -6,9 +6,11 @@ export interface SessionRowProps {
 }
 
 export const SessionHeader: React.FC = props => <thead>
-    <th>Start</th>
-    <th>End</th>
-    <th>Title</th>
+    <tr>
+        <th>Start</th>
+        <th>End</th>
+        <th>Title</th>
+    </tr>
 </thead>;
 
 export const SessionRow: React.FC<SessionRowProps> = props => {

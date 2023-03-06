@@ -1,4 +1,5 @@
 import webpack from "webpack";
+import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
 
@@ -30,7 +31,10 @@ const config: webpack.Configuration = {
         new HtmlWebpackPlugin({ template: "index.html" }),
         new MiniCssExtractPlugin(),
         new webpack.ProgressPlugin()
-    ]
+    ],
+    devServer: {
+        historyApiFallback: true
+    }
 };
 
 export default config;
