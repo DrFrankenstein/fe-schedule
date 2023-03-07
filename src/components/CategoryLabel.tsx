@@ -3,12 +3,12 @@ import { EventContext } from "../context/EventContext";
 import { useCategoryItem } from "../queries/category";
 
 export interface CategoryLabelProps {
-    id: number;
+    itemId: number;
 }
 
 export const CategoryLabel: React.FC<CategoryLabelProps> = props => {
     const domain = useContext(EventContext);
-    const categoryQuery = useCategoryItem(domain, props.id);
+    const categoryQuery = useCategoryItem(domain, props.itemId);
     const category = categoryQuery.categoryItem;
 
     if (categoryQuery.isLoading) {
