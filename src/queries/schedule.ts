@@ -6,18 +6,18 @@ import { Session } from "../models/session";
 export const useSchedule = (domain: string) =>
     useQuery<Schedule>([domain, "schedule"]);
 
-const filterEvent = (event: Session, filter?: string) =>
+const filterSession = (session: Session, filter?: string) =>
     filter === undefined || filter === ""
-    || event.title.toLocaleLowerCase().includes(filter.toLocaleLowerCase());
+    || session.title.toLocaleLowerCase().includes(filter.toLocaleLowerCase());
 
-export const useEvents = (domain: string, filter?: string) => {
+export const useSessions = (domain: string, filter?: string) => {
     const schedule = useSchedule(domain);
 
-    const events = useMemo(() => schedule.data?.sessions.filter(
-        session => !session.isServiceSession && filterEvent(session, filter)
+    const sessions = useMemo(() => schedule.data?.sessions.filter(
+        session => !session.isServiceSession && filterSession(session, filter)
     ), [schedule.data, filter]);
 
-    return { ...schedule, events }
+    return { ...schedule, sessions }
 }
 
 export const useServices = (domain: string) => {

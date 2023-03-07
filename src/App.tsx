@@ -5,7 +5,7 @@ import { createQueryClient } from "./queries/query-client";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Layout } from "./Layout";
 import { EventContext } from "./context/EventContext";
-import { EventsSchedule } from "./pages/EventsSchedule";
+import { SessionsSchedule } from "./pages/SessionsSchedule";
 import { ServicesSchedule } from "./pages/ServicesSchedule";
 import { Speakers } from "./pages/Speakers";
 
@@ -17,7 +17,7 @@ export const App: React.FC = () =>
             <EventContext.Provider value="">
                 <Routes>
                     <Route path="/" element={<Layout />}>
-                        <Route path="events" element={<EventsSchedule/>} />
+                        <Route path="sessions" element={<SessionsSchedule/>} />
                         <Route path="services" element={<ServicesSchedule/>} />
                         <Route path="speakers" element={<Speakers/>} />
                     </Route>
