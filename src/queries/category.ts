@@ -1,10 +1,18 @@
 import { useSchedule } from "./schedule"
 
-export const useCategory = (domain: string, id: number) => {
+export const useCategoryField = (domain: string, id: number) => {
     const scheduleQuery = useSchedule(domain);
-    const category = scheduleQuery.data?.categories.find(
-        cat => cat.id === id
-    );
+    const categoryField = scheduleQuery.data?.categories
+        .find(field => field.id === id);
 
-    return { ...scheduleQuery, category };
+    return { ...scheduleQuery, categoryField };
+}
+
+export const useCategoryItem = (domain: string, id: number) => {
+    const scheduleQuery = useSchedule(domain);
+    const categoryItem = scheduleQuery.data?.categories
+        .flatMap(field => field.items)
+        .find(item => item.id === id);
+
+    return { ...scheduleQuery, categoryItem };
 }

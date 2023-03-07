@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { EventContext } from "../context/EventContext";
-import { useCategory } from "../queries/category";
+import { useCategoryItem } from "../queries/category";
 
 export interface CategoryLabelProps {
     id: number;
@@ -8,8 +8,8 @@ export interface CategoryLabelProps {
 
 export const CategoryLabel: React.FC<CategoryLabelProps> = props => {
     const domain = useContext(EventContext);
-    const categoryQuery = useCategory(domain, props.id);
-    const category = categoryQuery.category;
+    const categoryQuery = useCategoryItem(domain, props.id);
+    const category = categoryQuery.categoryItem;
 
     if (categoryQuery.isLoading) {
         return <>&hellip;</>;
@@ -19,5 +19,5 @@ export const CategoryLabel: React.FC<CategoryLabelProps> = props => {
         return <>(not found)</>;
     }
 
-    return <>{category.title}</>;
+    return <>{category.name}</>;
 }
