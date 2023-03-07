@@ -2,6 +2,7 @@ import React from "react";
 import { FieldIds } from "../models/category";
 import { Session } from "../models/session";
 import { CategoryEnum } from "./CategoryEnum";
+import { RoomLabel } from "./RoomLabel";
 import { SpeakerEnum } from "./SpeakerEnum";
 
 export interface SessionTableProps {
@@ -28,6 +29,7 @@ export const SessionHeader: React.FC = () => <thead>
         <th>Speakers</th>
         <th>Track</th>
         <th>Format</th>
+        <th>Venue</th>
     </tr>
 </thead>;
 
@@ -43,9 +45,10 @@ export const SessionRow: React.FC<SessionRowProps> = props => {
 
     return <tr>
         <td>{dateFormatter.formatRange(start, end)}</td>
-        <td>{session.title}</td>
+        <td><strong>{session.title}</strong></td>
         <td><SpeakerEnum ids={session.speakers}/></td>
         <td><CategoryEnum itemIds={session.categoryItems} fieldId={FieldIds.Track} /></td>
         <td><CategoryEnum itemIds={session.categoryItems} fieldId={FieldIds.Format} /></td>
+        <td><RoomLabel roomId={session.roomId} /></td>
     </tr>;
 }
