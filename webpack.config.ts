@@ -1,4 +1,4 @@
-import webpack from "webpack";
+import webpack, { DefinePlugin } from "webpack";
 import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
@@ -30,6 +30,9 @@ const config: webpack.Configuration = {
     plugins: [
         new HtmlWebpackPlugin({ template: "index.html" }),
         new MiniCssExtractPlugin(),
+        new DefinePlugin({
+            BASENAME: JSON.stringify(process.env["CI"] ? "/fe-schedule" : "/")
+        }),
         new webpack.ProgressPlugin()
     ],
     devServer: {

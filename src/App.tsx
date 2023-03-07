@@ -9,10 +9,13 @@ import { SessionsSchedule } from "./pages/SessionsSchedule";
 import { ServicesSchedule } from "./pages/ServicesSchedule";
 import { Speakers } from "./pages/Speakers";
 
+declare const BASENAME: string;
+
 const queryClient = createQueryClient();
+const basename = BASENAME;
 
 export const App: React.FC = () =>
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
         <QueryClientProvider client={queryClient}>
             <EventContext.Provider value="">
                 <Routes>
