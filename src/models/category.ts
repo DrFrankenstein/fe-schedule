@@ -26,6 +26,12 @@
 //   "sort": 0,
 //   "type": "session"
 
+export enum FieldIds {
+    Format = 48801,
+    Track = 48802,
+    Rating = 49244
+}
+
 export interface CategoryField {
     id: number;
     title: string;

@@ -2,10 +2,10 @@ import React, { Fragment } from "react";
 import { SpeakerLabel } from "./SpeakerLabel";
 
 export interface SpeakerEnumProps {
-    ids: string[]
+    ids: string[];
 }
 
-type Part = ReturnType<typeof Intl.ListFormat['prototype']['formatToParts']>[number];
+type Part = ReturnType<typeof Intl.ListFormat.prototype.formatToParts>[number];
 
 function renderPart(part: Part, idx: number) {
     switch (part.type) {
