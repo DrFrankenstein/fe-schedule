@@ -1,11 +1,12 @@
-import webpack, { DefinePlugin } from "webpack";
+import { Configuration, DefinePlugin, ProgressPlugin, RuleSetRule } from "webpack";
 import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
 
 const isProd = process.env["NODE_ENV"] === "production";
+const isCI = process.env["CI"];
 
-const tsRule: webpack.RuleSetRule = {
+const tsRule: RuleSetRule = {
     test: /\.(ts|tsx)$/,
     use: "ts-loader",
 
@@ -15,12 +16,12 @@ const tsRule: webpack.RuleSetRule = {
     }
 };
 
-const cssRule: webpack.RuleSetRule = {
+const cssRule: RuleSetRule = {
     test: /\.css$/,
     use: [MiniCssExtractPlugin.loader, "css-loader"]
 }
 
-const config: webpack.Configuration = {
+const config: Configuration = {
     mode: isProd? "production" : "development",
     entry: "./src/index.tsx",
     module: {
@@ -31,9 +32,9 @@ const config: webpack.Configuration = {
         new HtmlWebpackPlugin({ template: "index.html" }),
         new MiniCssExtractPlugin(),
         new DefinePlugin({
-            BASENAME: JSON.stringify(process.env["CI"] ? "/fe-schedule" : "/")
+            BASENAME: JSON.stringify(isCI? "/fe-schedule" : "/")
         }),
-        new webpack.ProgressPlugin()
+        new ProgressPlugin()
     ],
     devServer: {
         historyApiFallback: true
