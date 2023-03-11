@@ -3,8 +3,8 @@ import { useMemo } from "react";
 import type { Schedule } from "../models/schedule";
 import { Session } from "../models/session";
 
-export const useSchedule = (domain: string, options?: UseQueryOptions<Schedule>) =>
-    useQuery<Schedule>([domain, "schedule"], options);
+export const useSchedule = (domain: string) =>
+    useQuery<Schedule>([domain, "schedule"]);
 
 const filterSession = (session: Session, filter?: string) =>
     filter === undefined || filter === ""
@@ -20,10 +20,8 @@ export const useSessions = (domain: string, filter?: string) => {
     return { ...schedule, sessions }
 }
 
-export const useSessionsForSpeaker = (domain: string, speakerId: string | undefined) => {
-    const schedule = useSchedule(domain, {
-        enabled: speakerId !== undefined
-    });
+export const useSessionsForSpeaker = (domain: string, speakerId: string) => {
+    const schedule = useSchedule(domain);
 
     const sessions = schedule.data?.sessions.filter(
         session => session.speakers.includes(speakerId!)
