@@ -21,7 +21,7 @@ export const Speakers: React.FC = () => {
         <Link to={`/speaker/${speaker.id}`}>
             <img src={speaker.profilePicture} style={{height:"2rem"}}/>
             {speaker.fullName}
-        </Link>
+        </Link> &mdash; <em>{speaker.tagLine}</em>
     </li>;
 
     return <ul>

@@ -35,7 +35,7 @@ export interface Speaker {
     isTopSpeaker: boolean;
     links: SpeakerLink[];
     sessions: number[];
-    categoryItems: unknown[];
+    categoryItems: number[];
     questionAnswers: QuestionAnswer[];
 }
 

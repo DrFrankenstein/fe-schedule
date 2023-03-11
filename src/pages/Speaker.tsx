@@ -48,6 +48,9 @@ export const Speaker: React.FC = () => {
             <img src={speaker.profilePicture} />
             {speaker.fullName}
         </h1>
+        <p><em>{speaker.tagLine}</em></p>
+        <p>{speaker.bio}</p>
+        <ul>{speaker.questionAnswers.map(answer => <li key={answer.questionId}>{answer.answerValue}</li>)}</ul>
         <h2>Sessions:</h2>
         <SpeakerSessions speakerId={speaker.id} />
     </>;
