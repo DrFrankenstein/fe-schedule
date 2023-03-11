@@ -1,4 +1,4 @@
-import { useQuery } from "@tanstack/react-query";
+import { useQuery, UseQueryOptions } from "@tanstack/react-query";
 import { useMemo } from "react";
 import type { Schedule } from "../models/schedule";
 import { Session } from "../models/session";
@@ -18,6 +18,16 @@ export const useSessions = (domain: string, filter?: string) => {
     ), [schedule.data, filter]);
 
     return { ...schedule, sessions }
+}
+
+export const useSessionsForSpeaker = (domain: string, speakerId: string) => {
+    const schedule = useSchedule(domain);
+
+    const sessions = schedule.data?.sessions.filter(
+        session => session.speakers.includes(speakerId!)
+    );
+
+    return { ...schedule, sessions };
 }
 
 export const useServices = (domain: string) => {

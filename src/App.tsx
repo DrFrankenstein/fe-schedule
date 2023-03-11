@@ -8,6 +8,7 @@ import { EventContext } from "./context/EventContext";
 import { SessionsSchedule } from "./pages/SessionsSchedule";
 import { ServicesSchedule } from "./pages/ServicesSchedule";
 import { Speakers } from "./pages/Speakers";
+import { Speaker } from "./pages/Speaker";
 
 declare const BASENAME: string;
 
@@ -23,6 +24,7 @@ export const App: React.FC = () =>
                         <Route path="sessions" element={<SessionsSchedule/>} />
                         <Route path="services" element={<ServicesSchedule/>} />
                         <Route path="speakers" element={<Speakers/>} />
+                        <Route path="speaker/:id" element={<Speaker />} />
                     </Route>
                 </Routes>
             </EventContext.Provider>
