@@ -36,7 +36,7 @@ export const SessionsSchedule: React.FC = () => {
         </label>
         {Object.entries(sessionsByDate).map(([date, dateEvents]) => <div key={date}>
             <h2>{date}</h2>
-            <SessionTable sessions={dateEvents} />
+            <SessionTable sessions={dateEvents} showSpeakers />
         </div>)}
     </>;
 };

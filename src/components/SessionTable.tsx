@@ -7,31 +7,39 @@ import { SpeakerEnum } from "./SpeakerEnum";
 
 export interface SessionTableProps {
     sessions: Session[];
+    showSpeakers?: boolean;
 }
 
 export const SessionTable: React.FC<SessionTableProps> = props => {
     return <table>
-        <SessionHeader />
+        <SessionHeader showSpeakers={props.showSpeakers} />
         <tbody>
-            {props.sessions.map(session => <SessionRow key={session.id} session={session} />)}
+            {props.sessions.map(
+                session => <SessionRow key={session.id} session={session} showSpeakers={props.showSpeakers} />
+            )}
         </tbody>
     </table>
 }
 
-export interface SessionRowProps {
-    session: Session;
+export interface SessionHeaderProps {
+    showSpeakers?: boolean;
 }
 
-export const SessionHeader: React.FC = () => <thead>
+export const SessionHeader: React.FC<SessionHeaderProps> = props => <thead>
     <tr>
         <th>Time</th>
         <th>Title</th>
-        <th>Speakers</th>
+        {props.showSpeakers && <th>Speakers</th>}
         <th>Track</th>
         <th>Format</th>
         <th>Venue</th>
     </tr>
 </thead>;
+
+export interface SessionRowProps {
+    session: Session;
+    showSpeakers?: boolean;
+}
 
 export const SessionRow: React.FC<SessionRowProps> = props => {
     const { session } = props;
@@ -46,7 +54,7 @@ export const SessionRow: React.FC<SessionRowProps> = props => {
     return <tr>
         <td>{dateFormatter.formatRange(start, end)}</td>
         <td><strong>{session.title}</strong></td>
-        <td><SpeakerEnum ids={session.speakers}/></td>
+        {props.showSpeakers && <td><SpeakerEnum ids={session.speakers}/></td>}
         <td><CategoryEnum itemIds={session.categoryItems} fieldId={FieldIds.Track} /></td>
         <td><CategoryEnum itemIds={session.categoryItems} fieldId={FieldIds.Format} /></td>
         <td><RoomLabel roomId={session.roomId} /></td>
