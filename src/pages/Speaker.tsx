@@ -5,7 +5,27 @@ import { EventContext } from "../context/EventContext";
 import { useSessionsForSpeaker } from "../queries/schedule";
 import { useSpeaker } from "../queries/speaker";
 
-export const Speaker: React.FC = props => {
+interface SpeakerSessionsProps {
+    speakerId: string;
+}
+
+const SpeakerSessions: React.FC<SpeakerSessionsProps> = props => {
+    const domain = useContext(EventContext);
+    const sessionsQuery = useSessionsForSpeaker(domain, props.speakerId);
+    const sessions = sessionsQuery.sessions;
+
+    if (sessionsQuery.isLoading) {
+        return <>Loading sessions&hellip;</>;
+    }
+
+    if (sessionsQuery.isError || sessions === undefined) {
+        return <>oh no :(</>;
+    }
+
+    return <SessionTable sessions={sessions} />
+}
+
+export const Speaker: React.FC = () => {
     const params = useParams();
     if (params.id === undefined) {
         return <>which speaker!?</>;
@@ -15,14 +35,11 @@ export const Speaker: React.FC = props => {
     const speakerQuery = useSpeaker(domain, params.id);
     const speaker = speakerQuery.speaker;
 
-    const sessionsQuery = useSessionsForSpeaker(domain, speaker?.id);
-    const sessions = sessionsQuery.sessions;
-
-    if (speakerQuery.isLoading || sessionsQuery.isLoading) {
+    if (speakerQuery.isLoading) {
         return <>Loading&hellip;</>;
     }
 
-    if (speakerQuery.isError || speaker === undefined || sessions === undefined) {
+    if (speakerQuery.isError || speaker === undefined) {
         return <>oh no :(</>;
     }
 
@@ -32,6 +49,6 @@ export const Speaker: React.FC = props => {
             {speaker.fullName}
         </h1>
         <h2>Sessions:</h2>
-        <SessionTable sessions={sessions} />
+        <SpeakerSessions speakerId={speaker.id} />
     </>;
 }
