@@ -13,7 +13,8 @@
       "questionAnswers": [],
       "roomId": 32452,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "c3fea9fe-75b7-4862-afba-469c523bdd09",
@@ -28,7 +29,8 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "48c1c5fa-bc2a-48b7-9e83-4c8289d8fc5f",
@@ -43,7 +45,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "37acfe2f-d576-429f-94ea-9d32ab6667e2",
@@ -58,7 +61,8 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "91c9959e-4844-4264-8588-3cf2cd4ed19f",
@@ -73,7 +77,8 @@
       "questionAnswers": [],
       "roomId": 32540,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "538f5cd5-185f-4ef7-9d25-1aaa1ba2aeb8",
@@ -88,7 +93,8 @@
       "questionAnswers": [],
       "roomId": 32454,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "16377288-6137-44fc-8fa5-bd645bd5b4c6",
@@ -103,7 +109,8 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "aefa4c2e-7dc5-424e-8e8c-5ca2ea3ea742",
@@ -118,7 +125,8 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "0d601dd6-7ce6-4706-92cc-daca0d36bb44",
@@ -133,7 +141,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436194",
@@ -154,7 +163,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "3df1e28f-a5e1-4521-8eb5-6f349aa685e5",
@@ -169,7 +179,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "92443fb1-bfce-44a4-89a0-94d8a9bd63c8",
@@ -184,7 +195,8 @@
       "questionAnswers": [],
       "roomId": 32540,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "b92b7fa0-4a73-4680-bc8c-4107e9c180c9",
@@ -199,7 +211,8 @@
       "questionAnswers": [],
       "roomId": 32452,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "f8bf1f0b-fa97-48ef-8064-f4e3b6e2c9e6",
@@ -214,7 +227,8 @@
       "questionAnswers": [],
       "roomId": 32454,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "867d8a48-3aff-4932-8ed1-3601f0b8613e",
@@ -229,7 +243,8 @@
       "questionAnswers": [],
       "roomId": 32444,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "656f7b95-69ff-40aa-8be7-582f4b98aae7",
@@ -244,7 +259,8 @@
       "questionAnswers": [],
       "roomId": 32447,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "7a3a185c-bda3-4d0f-9a75-2d098b7bbb03",
@@ -259,7 +275,8 @@
       "questionAnswers": [],
       "roomId": 32445,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "4d462f18-3056-4c85-83cd-c38e712ce9ba",
@@ -274,7 +291,8 @@
       "questionAnswers": [],
       "roomId": 32389,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "6dd506e3-4a14-46c2-8b18-dd85db3f55f2",
@@ -289,7 +307,8 @@
       "questionAnswers": [],
       "roomId": 32451,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "8aad3678-ad98-4e8a-8b26-fe47d486da01",
@@ -304,7 +323,8 @@
       "questionAnswers": [],
       "roomId": 32446,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "3bbbec91-6494-4957-83c5-16d83e6af938",
@@ -319,7 +339,24 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
+    },
+    {
+      "id": "21ad10ca-c51a-4e0e-8aed-3b2c38933ebe",
+      "title": "Nightingales",
+      "description": null,
+      "startsAt": "2023-03-17T09:00:00",
+      "endsAt": "2023-03-18T00:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 34185,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "870dd9b3-20f3-429a-8393-d09dc6280b6f",
@@ -334,7 +371,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "5d5600ab-9836-4ca9-8e0b-0064cdc32730",
@@ -349,7 +387,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436644",
@@ -370,7 +409,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "cdee82fb-b71e-4b58-8c24-3d73f08b6219",
@@ -385,7 +425,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442938",
@@ -406,7 +447,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447578",
@@ -428,7 +470,8 @@
       "questionAnswers": [],
       "roomId": 32389,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442996",
@@ -449,7 +492,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "ee52304c-98a4-44c2-8237-d8ebdfafb050",
@@ -464,7 +508,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "437839",
@@ -485,7 +530,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436658",
@@ -506,11 +552,12 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "02a5ffe8-e6e5-41ec-99f7-bc481fca30ed",
-      "title": "Dealers Den - Sponsor/Supersponsor Early Access",
+      "title": "Dealers Den - Supersponsor Early Access",
       "description": null,
       "startsAt": "2023-03-17T11:30:00",
       "endsAt": "2023-03-17T12:00:00",
@@ -521,11 +568,12 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "9e8c2610-e9a1-4137-9eff-82176d5a236b",
-      "title": "Early Access - Accessibility",
+      "title": "Fursuit Games - Early Access - Accessibility",
       "description": null,
       "startsAt": "2023-03-17T12:00:00",
       "endsAt": "2023-03-17T12:10:00",
@@ -536,7 +584,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "447535",
@@ -557,7 +606,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437831",
@@ -578,7 +628,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442964",
@@ -599,14 +650,15 @@
       "questionAnswers": [],
       "roomId": 32387,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
-      "id": "80fdabb6-003a-4ef6-9829-762a61af542e",
-      "title": "Dealers Den General Access",
+      "id": "80af1d9a-5970-4a75-8c51-2c21be160755",
+      "title": "Dealers Den - Sponsor Early Access",
       "description": null,
       "startsAt": "2023-03-17T12:00:00",
-      "endsAt": "2023-03-17T18:00:00",
+      "endsAt": "2023-03-17T12:30:00",
       "isServiceSession": true,
       "isPlenumSession": false,
       "speakers": [],
@@ -614,11 +666,12 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "20b761d3-bc50-4ece-93a6-3e7790f66f80",
-      "title": "Early Access - Benefactor/Supersponsor/Sponsor",
+      "title": "Fursuit Games - Early Access - Benefactor/Supersponsor/Sponsor",
       "description": null,
       "startsAt": "2023-03-17T12:10:00",
       "endsAt": "2023-03-17T12:30:00",
@@ -629,7 +682,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436632",
@@ -650,7 +704,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "456400",
@@ -673,7 +728,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "453284",
@@ -694,7 +750,24 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "80fdabb6-003a-4ef6-9829-762a61af542e",
+      "title": "Dealers Den General Access",
+      "description": null,
+      "startsAt": "2023-03-17T12:30:00",
+      "endsAt": "2023-03-17T18:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 32453,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442960",
@@ -715,18 +788,18 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442995",
-      "title": "Budgeting 101: How to finance your furry fascination",
+      "title": "How to finance your furry fascination",
       "description": "Would you like to easily save 250$ for every furry convention you will ever attend? Would you like to never have to worry about your budget when buying furry stuff? Managing your money doesn't have to make you miserable, come on down for a presentation so easy that even a simple moose can understand it!",
       "startsAt": "2023-03-17T13:30:00",
       "endsAt": "2023-03-17T15:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "1c4305ed-2de8-4837-98fe-7255bfa99322",
         "91602fd3-5030-49a5-baa6-1191a23ab1e7"
       ],
       "categoryItems": [
@@ -737,7 +810,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "453140",
@@ -760,12 +834,13 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448002",
       "title": "Magic: The Gathering - Meet and Duel",
-      "description": "Calling all Magic: The Gathering players!\r\n\r\nLooking to get your duel on and maybe make some new friends or, perhaps rivals? Then this open social gathering of like-minded Magic players is for you!\r\n\r\nThis casual event is for the Magic playing attendees of Furnal Equinox to meet other Magic: The Gathering enthusiasts and share battle strategies, trade or just find new folks to duel.\r\n\r\nAll formats welcome, but Casual and Commander suggested.",
+      "description": "Calling all Magic: The Gathering players!\r\n\r\nLooking to get your duel on and maybe make some new friends or, perhaps rivals? Then this open social gathering of like-minded Magic players is for you!\r\n\r\nThis casual event is for the Magic playing attendees of Furnal Equinox to meet other Magic: The Gathering enthusiasts and share battle strategies, trade or just find new folks to duel. All formats welcome, but Casual and Commander suggested.\r\n\r\nThis is social event with no host or lead and will take place at the reserved, rectangular tables located in the rear-most (Pier 5) section of the Lounge (Pier 4 & 5.)",
       "startsAt": "2023-03-17T14:00:00",
       "endsAt": "2023-03-17T16:00:00",
       "isServiceSession": false,
@@ -781,7 +856,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448213",
@@ -802,7 +878,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442971",
@@ -823,7 +900,30 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "438329",
+      "title": "Fursuit Dance Competition Prelims",
+      "description": null,
+      "startsAt": "2023-03-17T15:00:00",
+      "endsAt": "2023-03-17T16:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "087e44a8-dbb7-4aec-920c-831db9486b94"
+      ],
+      "categoryItems": [
+        166558,
+        166561,
+        167664
+      ],
+      "questionAnswers": [],
+      "roomId": 32044,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437377",
@@ -845,7 +945,30 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "462554",
+      "title": "Portal Between Worlds (VRChat Portal)",
+      "description": "Let's make some magic!\r\n\r\nThe link between our world and our VRChat World, the \"West Inn,\" is open! Come visit our first portal to our virtual hotel world in VRChat and see your virtual friends live right before your eyes!\r\n\r\nThe in-person portal and the VRChat portal are both located in the same place:\r\n2nd Floor, outside Pier 3\r\n\r\nOn the virtual side from VRChat, seek out the world called \"The West Inn\" made by Lilithe Lotor and join the session with the TailBass taidum bot to interact with everyone at the convention.\r\n\r\nInstance links will be provided in the Furnal Equinox Discord and Telegram.\r\n\r\nFor more information on how to join our virtual efforts, check the Furnal Equinox Virtual Reality page:\r\nhttps://furnalequinox.com/community-vr/\r\n\r\nThe West Inn, by Lilithe Lotor:\r\nhttps://vrchat.com/home/launch?worldId=wrld_0d56d7f0-7291-40af-a067-94f11216bb1b\r\n\r\nTailBass Bot:\r\nhttps://vrchat.com/home/user/usr_f36fdd99-01e5-443a-a4c3-59932dbfbc0e",
+      "startsAt": "2023-03-17T15:00:00",
+      "endsAt": "2023-03-17T17:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "07a8fc58-18f2-49c0-b279-e7da5b4004e6"
+      ],
+      "categoryItems": [
+        166557,
+        166562,
+        167664
+      ],
+      "questionAnswers": [],
+      "roomId": 34147,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442951",
@@ -866,7 +989,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437379",
@@ -887,28 +1011,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "438329",
-      "title": "Fursuit Dance Competition Prelims",
-      "description": null,
-      "startsAt": "2023-03-17T16:00:00",
-      "endsAt": "2023-03-17T17:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "087e44a8-dbb7-4aec-920c-831db9486b94"
-      ],
-      "categoryItems": [
-        166558,
-        166561,
-        167664
-      ],
-      "questionAnswers": [],
-      "roomId": 32044,
-      "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447495",
@@ -930,7 +1034,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442984",
@@ -951,7 +1056,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436633",
@@ -972,7 +1078,30 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "437826",
+      "title": "Furry Yoga",
+      "description": "\"Feel the power of Furry Yoga! Furry Yoga is a free weekly program hosted by Fuzz Buttons & Muttsi705 that combines the power of entertainment & benefit of exercise together in a fuzzy combination!  Have fun while working out as Fuzz Buttons teaches you yoga in Fursuit!! \r\n\r\nThe purpose of this is to spread Furry Yoga reach & also show off this new twist on the way people see Yoga in hopes they reach there goals!!\r\ncheck out furryyoga.com for more information!\"",
+      "startsAt": "2023-03-17T17:00:00",
+      "endsAt": "2023-03-17T18:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a805a34b-8c7c-4349-9fa2-e7acef46b30c"
+      ],
+      "categoryItems": [
+        166555,
+        166563,
+        167664
+      ],
+      "questionAnswers": [],
+      "roomId": 32044,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "450539",
@@ -993,11 +1122,12 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "e96d9e98-770d-430a-856f-f6ea8e2ef511",
-      "title": "Early Access - Accessibility",
+      "title": "Great Tavern Concert - Early Access - Accessibility",
       "description": null,
       "startsAt": "2023-03-17T17:30:00",
       "endsAt": "2023-03-17T17:40:00",
@@ -1008,7 +1138,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "447503",
@@ -1030,7 +1161,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442987",
@@ -1051,7 +1183,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437850",
@@ -1072,11 +1205,12 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "4411ffae-01f6-49d1-984d-b73b8bcdbda3",
-      "title": "Early Access - Benefactor/Supersponsor/Sponsor",
+      "title": "Great Tavern Concert - Early Access - Benefactor/Supersponsor/Sponsor",
       "description": null,
       "startsAt": "2023-03-17T17:40:00",
       "endsAt": "2023-03-17T18:00:00",
@@ -1087,7 +1221,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436657",
@@ -1108,28 +1243,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "437826",
-      "title": "Furry Yoga",
-      "description": "\"Feel the power of Furry Yoga! Furry Yoga is a free weekly program hosted by Fuzz Buttons & Muttsi705 that combines the power of entertainment & benefit of exercise together in a fuzzy combination!  Have fun while working out as Fuzz Buttons teaches you yoga in Fursuit!! \r\n\r\nThe purpose of this is to spread Furry Yoga reach & also show off this new twist on the way people see Yoga in hopes they reach there goals!!\r\ncheck out furryyoga.com for more information!\"",
-      "startsAt": "2023-03-17T18:00:00",
-      "endsAt": "2023-03-17T19:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "a805a34b-8c7c-4349-9fa2-e7acef46b30c"
-      ],
-      "categoryItems": [
-        166555,
-        166563,
-        167664
-      ],
-      "questionAnswers": [],
-      "roomId": 32044,
-      "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437262",
@@ -1150,7 +1265,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447545",
@@ -1172,7 +1288,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437843",
@@ -1194,7 +1311,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437848",
@@ -1215,7 +1333,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447546",
@@ -1237,7 +1356,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442980",
@@ -1258,7 +1378,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437253",
@@ -1280,7 +1401,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442931",
@@ -1301,7 +1423,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442966",
@@ -1323,7 +1446,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448218",
@@ -1344,7 +1468,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442982",
@@ -1365,7 +1490,8 @@
       "questionAnswers": [],
       "roomId": 32382,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436390",
@@ -1386,7 +1512,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442954",
@@ -1407,7 +1534,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442959",
@@ -1428,7 +1556,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448239",
@@ -1449,7 +1578,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442934",
@@ -1470,11 +1600,12 @@
       "questionAnswers": [],
       "roomId": 32383,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448220",
-      "title": "Telestrations After Dark - Open Game (17+)\t",
+      "title": "Telestrations After Dark - Open Game (18+)\t",
       "description": "One part Pictionary, one part game of Telephone, it's Telestrations! The guess what you see and draw what you read party game!\r\n\r\nThis is an open game for anyone to join, whether you have you own group or are looking to play with new folks\r\n\r\nLearn to play here:\r\nhttps://youtu.be/OStOnMypEzo\r\n\r\nSeats limited up to 8 players, ages 18+ per game on a first come basis. See lounge staff to check out Telestrations if game is not underway.",
       "startsAt": "2023-03-17T22:30:00",
       "endsAt": "2023-03-18T00:00:00",
@@ -1491,7 +1622,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437841",
@@ -1512,7 +1644,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "d9df7af9-1595-42cc-8d62-8b460a72c662",
@@ -1527,7 +1660,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "f296c641-5cb7-4225-8f4c-34ed7b3e9187",
@@ -1542,7 +1676,8 @@
       "questionAnswers": [],
       "roomId": 32444,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "e9d587a1-21e1-43cd-8dcf-c0ed99d19717",
@@ -1557,7 +1692,8 @@
       "questionAnswers": [],
       "roomId": 32389,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "5cd22a6e-c0c4-4065-8311-9b68408947d8",
@@ -1572,7 +1708,8 @@
       "questionAnswers": [],
       "roomId": 32540,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "45852499-4e32-48e7-8a00-7fcd11de2a28",
@@ -1587,7 +1724,8 @@
       "questionAnswers": [],
       "roomId": 32452,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "96c34875-673d-4456-8fee-20d49a9bb98d",
@@ -1602,7 +1740,24 @@
       "questionAnswers": [],
       "roomId": 32454,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
+    },
+    {
+      "id": "9a85ceba-a945-4d35-89eb-76770147da82",
+      "title": "Nightingales",
+      "description": null,
+      "startsAt": "2023-03-18T00:00:00",
+      "endsAt": "2023-03-18T02:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 34185,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "98afe34c-8596-402d-867b-a17b52427aa9",
@@ -1617,7 +1772,8 @@
       "questionAnswers": [],
       "roomId": 32447,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "46e2e732-8e21-463c-90dd-9d1383dd8b87",
@@ -1632,7 +1788,8 @@
       "questionAnswers": [],
       "roomId": 32451,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "382b50ae-e969-4892-b590-440e38d44556",
@@ -1647,7 +1804,8 @@
       "questionAnswers": [],
       "roomId": 32446,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "83dafa8b-dc69-4f94-96c5-c4bfce21fbb3",
@@ -1662,7 +1820,24 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
+    },
+    {
+      "id": "cad8bf59-0aef-4f25-8cfe-acac82e32ffc",
+      "title": "Nightingales",
+      "description": null,
+      "startsAt": "2023-03-18T09:00:00",
+      "endsAt": "2023-03-19T00:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 34185,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "bade25f9-9aad-442e-b43d-8e8830625764",
@@ -1677,7 +1852,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "ea4bfc98-98c7-46d0-8ca3-be4f6afcfedb",
@@ -1692,7 +1868,8 @@
       "questionAnswers": [],
       "roomId": 32444,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436654",
@@ -1713,7 +1890,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "66a15f12-61c5-46fe-8da7-71eabf57052e",
@@ -1728,7 +1906,8 @@
       "questionAnswers": [],
       "roomId": 32445,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "447556",
@@ -1750,7 +1929,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447585",
@@ -1772,7 +1952,8 @@
       "questionAnswers": [],
       "roomId": 32389,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437369",
@@ -1793,7 +1974,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442993",
@@ -1814,7 +1996,8 @@
       "questionAnswers": [],
       "roomId": 32388,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "c05549e8-588c-4b57-8297-0b7e8f0c076a",
@@ -1829,7 +2012,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442979",
@@ -1850,7 +2034,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447557",
@@ -1872,7 +2057,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437370",
@@ -1893,7 +2079,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436395",
@@ -1914,7 +2101,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448259",
@@ -1935,7 +2123,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442970",
@@ -1956,7 +2145,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "455006",
@@ -1977,7 +2167,30 @@
       "questionAnswers": [],
       "roomId": 32387,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
+    },
+    {
+      "id": "462555",
+      "title": "Portal Between Worlds (VRChat Portal)",
+      "description": "Let's make some magic!\r\n\r\nThe link between our world and our VRChat World, the \"West Inn,\" is open! Come visit our first portal to our virtual hotel world in VRChat and see your virtual friends live right before your eyes!\r\n\r\nThe in-person portal and the VRChat portal are both located in the same place:\r\n2nd Floor, outside Pier 3\r\n\r\nOn the virtual side from VRChat, seek out the world called \"The West Inn\" made by Lilithe Lotor and join the session with the TailBass taidum bot to interact with everyone at the convention.\r\n\r\nInstance links will be provided in the Furnal Equinox Discord and Telegram.\r\n\r\nFor more information on how to join our virtual efforts, check the Furnal Equinox Virtual Reality page:\r\nhttps://furnalequinox.com/community-vr/\r\n\r\nThe West Inn, by Lilithe Lotor:\r\nhttps://vrchat.com/home/launch?worldId=wrld_0d56d7f0-7291-40af-a067-94f11216bb1b\r\n\r\nTailBass Bot:\r\nhttps://vrchat.com/home/user/usr_f36fdd99-01e5-443a-a4c3-59932dbfbc0e",
+      "startsAt": "2023-03-18T12:00:00",
+      "endsAt": "2023-03-18T14:00:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "07a8fc58-18f2-49c0-b279-e7da5b4004e6"
+      ],
+      "categoryItems": [
+        166557,
+        166562,
+        167664
+      ],
+      "questionAnswers": [],
+      "roomId": 34147,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437266",
@@ -1998,7 +2211,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442953",
@@ -2019,7 +2233,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448266",
@@ -2040,7 +2255,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "456254",
@@ -2061,7 +2277,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442990",
@@ -2083,7 +2300,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "453322",
@@ -2104,7 +2322,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437264",
@@ -2125,7 +2344,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447558",
@@ -2147,7 +2367,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448270",
@@ -2168,7 +2389,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442988",
@@ -2189,14 +2411,15 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "4123f978-6cf3-42b5-9713-b55764f396ff",
       "title": "Dealers Den - General Access",
       "description": null,
       "startsAt": "2023-03-18T14:00:00",
-      "endsAt": "2023-03-18T19:00:00",
+      "endsAt": "2023-03-18T18:00:00",
       "isServiceSession": true,
       "isPlenumSession": false,
       "speakers": [],
@@ -2204,19 +2427,19 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442994",
-      "title": "Investing 101: How to use money to make more money!",
+      "title": "How to use money to make more money!",
       "description": "If you've ever wondered how investing works, but you don't quite know what it's all about, this panel is for you! We'll go over the basic terms, what they mean, how the stock market works, and give some useful advice on how to get started, all in a simple and enjoyable format so even a simple moose can understand it!",
       "startsAt": "2023-03-18T14:30:00",
       "endsAt": "2023-03-18T16:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "91602fd3-5030-49a5-baa6-1191a23ab1e7",
-        "1c4305ed-2de8-4837-98fe-7255bfa99322"
+        "91602fd3-5030-49a5-baa6-1191a23ab1e7"
       ],
       "categoryItems": [
         166556,
@@ -2226,7 +2449,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442957",
@@ -2247,7 +2471,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442949",
@@ -2268,7 +2493,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436651",
@@ -2289,7 +2515,8 @@
       "questionAnswers": [],
       "roomId": 32388,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448271",
@@ -2310,7 +2537,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "450600",
@@ -2331,7 +2559,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447560",
@@ -2353,7 +2582,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442975",
@@ -2374,7 +2604,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442950",
@@ -2395,7 +2626,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442974",
@@ -2416,12 +2648,13 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448279",
       "title": "Magic: The Gathering - Open Gaming",
-      "description": "Calling all Magic: The Gathering players!\r\n\r\nA casual event for Magic playing attendees of Furnal Equinox to meet other Magic: The Gathering enthusiasts and find new opponents to duel.\r\n\r\nAll formats welcome, but Casual and Commander suggested.",
+      "description": "Calling all Magic: The Gathering players!\r\n\r\nA casual event for Magic playing attendees of Furnal Equinox to meet other Magic: The Gathering enthusiasts and find new opponents to duel.\r\n\r\nAll formats welcome, but Casual and Commander suggested.\r\n\r\nThis is social gaming event with no host or lead and will take place at the reserved, rectangular tables located in the rear-most (Pier 5) section of the Lounge (Pier 4 & 5.)",
       "startsAt": "2023-03-18T17:00:00",
       "endsAt": "2023-03-18T19:00:00",
       "isServiceSession": false,
@@ -2437,11 +2670,12 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "b8490df4-0379-4e5a-8038-8d224d852f8f",
-      "title": "Early Access - Accessibility",
+      "title": "Masquerade - Early Access - Accessibility",
       "description": null,
       "startsAt": "2023-03-18T17:30:00",
       "endsAt": "2023-03-18T17:40:00",
@@ -2452,7 +2686,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442976",
@@ -2473,7 +2708,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437263",
@@ -2494,11 +2730,12 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "ca3269ac-9549-41eb-a52b-80ad282c2f01",
-      "title": "Early Access - Benefactor/Supersponsor/Sponsor",
+      "title": "Masquerade - Early Access - Benefactor/Supersponsor/Sponsor",
       "description": null,
       "startsAt": "2023-03-18T17:40:00",
       "endsAt": "2023-03-18T18:00:00",
@@ -2509,7 +2746,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436393",
@@ -2530,7 +2768,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448277",
@@ -2551,7 +2790,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442977",
@@ -2572,7 +2812,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442956",
@@ -2593,7 +2834,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442991",
@@ -2614,7 +2856,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442978",
@@ -2635,7 +2878,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447562",
@@ -2657,7 +2901,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447764",
@@ -2679,28 +2924,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "442933",
-      "title": "Dungeons and Furries ",
-      "description": "Come join Kale & Egg as they stumble their way through this short performance. There will be dice rolling, bad art and even worse puns as we collectively create a fursona. What will their god awful backstory be? Was their father killed by a rogue potato farmer!? IS their mother a Walrus!? Let's find out in Dungeons and Furries! ",
-      "startsAt": "2023-03-18T19:00:00",
-      "endsAt": "2023-03-18T20:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1c4305ed-2de8-4837-98fe-7255bfa99322"
-      ],
-      "categoryItems": [
-        166558,
-        166565,
-        167664
-      ],
-      "questionAnswers": [],
-      "roomId": 32381,
-      "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437847",
@@ -2722,7 +2947,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "453318",
@@ -2744,7 +2970,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447479",
@@ -2765,7 +2992,8 @@
       "questionAnswers": [],
       "roomId": 32045,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448282",
@@ -2786,7 +3014,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442969",
@@ -2807,28 +3036,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "442932",
-      "title": "Fursuit Making 102",
-      "description": "Already know how to make a Fursuit and want to up your game? Than this panel is for you! We'll give be discussing the more advanced techniques and tools that professional makers use! Don't know how to make a Fursuit and want to learn? Check out our other panel Fursuit Making 101 where we run you through a crash course on how to make a fursuit from the very beginning! ",
-      "startsAt": "2023-03-18T21:00:00",
-      "endsAt": "2023-03-18T22:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1c4305ed-2de8-4837-98fe-7255bfa99322"
-      ],
-      "categoryItems": [
-        166556,
-        166561,
-        167664
-      ],
-      "questionAnswers": [],
-      "roomId": 32381,
-      "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442935",
@@ -2849,7 +3058,8 @@
       "questionAnswers": [],
       "roomId": 32383,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437372",
@@ -2870,7 +3080,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442967",
@@ -2891,7 +3102,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436391",
@@ -2912,7 +3124,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442985",
@@ -2933,7 +3146,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447567",
@@ -2955,7 +3169,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "448287",
@@ -2976,7 +3191,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442961",
@@ -2997,7 +3213,8 @@
       "questionAnswers": [],
       "roomId": 32382,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437827",
@@ -3018,7 +3235,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "3c393196-0092-4e8e-869e-6ff38b64bfc3",
@@ -3033,7 +3251,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "5ebd6ceb-cb64-4706-ad08-8068417d27a5",
@@ -3048,7 +3267,8 @@
       "questionAnswers": [],
       "roomId": 32444,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "3ded119a-191f-47d8-95ee-2a7136bc03dc",
@@ -3063,7 +3283,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "2ff79cd5-15a7-49b1-a34e-d6c92fdbe996",
@@ -3078,7 +3299,8 @@
       "questionAnswers": [],
       "roomId": 32389,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "e75c9ead-8459-4630-86a0-fa8f40026ea6",
@@ -3093,7 +3315,8 @@
       "questionAnswers": [],
       "roomId": 32540,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "fb4a4fa3-20f8-41ce-89ce-44e3156cb356",
@@ -3108,7 +3331,8 @@
       "questionAnswers": [],
       "roomId": 32452,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "619a5987-4805-4d81-9582-250690f17fc5",
@@ -3123,7 +3347,24 @@
       "questionAnswers": [],
       "roomId": 32454,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
+    },
+    {
+      "id": "7da5be2a-fac4-4e71-8049-ae060f9194d8",
+      "title": "Nightingales",
+      "description": null,
+      "startsAt": "2023-03-19T00:00:00",
+      "endsAt": "2023-03-19T02:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 34185,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "982e7619-57bb-4412-ae9d-8675d37afdcd",
@@ -3138,7 +3379,8 @@
       "questionAnswers": [],
       "roomId": 32444,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "ddb62ef6-9079-4f3a-84e2-26e82169c6eb",
@@ -3153,7 +3395,8 @@
       "questionAnswers": [],
       "roomId": 32447,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "4058691b-e8f1-44fc-a544-e21010b57291",
@@ -3168,7 +3411,8 @@
       "questionAnswers": [],
       "roomId": 32451,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "a304d8fc-17c0-4267-9783-60c98da4313f",
@@ -3183,7 +3427,8 @@
       "questionAnswers": [],
       "roomId": 32446,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "e9918b99-9145-42b9-a59c-0832d1faf1dd",
@@ -3198,11 +3443,28 @@
       "questionAnswers": [],
       "roomId": 32390,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
+    },
+    {
+      "id": "f5e2ad89-6805-4de9-842d-4ca2568814aa",
+      "title": "Nightingales",
+      "description": null,
+      "startsAt": "2023-03-19T09:00:00",
+      "endsAt": "2023-03-19T21:00:00",
+      "isServiceSession": true,
+      "isPlenumSession": false,
+      "speakers": [],
+      "categoryItems": [],
+      "questionAnswers": [],
+      "roomId": 34185,
+      "liveUrl": null,
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "b404442d-ca3f-4ea8-877a-ebda3703c40b",
-      "title": "Early Access - Accessibility",
+      "title": "Charity Auction - Early Access - Accessibility",
       "description": null,
       "startsAt": "2023-03-19T09:30:00",
       "endsAt": "2023-03-19T09:40:00",
@@ -3213,11 +3475,12 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "202426b0-8d1c-45eb-8766-afa85904e473",
-      "title": "Early Access - Benefactor/Supersponsor/Sponsor",
+      "title": "Charity Auction - Early Access - Benefactor/Supersponsor/Sponsor",
       "description": null,
       "startsAt": "2023-03-19T09:40:00",
       "endsAt": "2023-03-19T10:00:00",
@@ -3228,7 +3491,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436666",
@@ -3249,7 +3513,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "0f4c44a0-53e8-4940-ae85-164a25ac083f",
@@ -3264,29 +3529,8 @@
       "questionAnswers": [],
       "roomId": 32445,
       "liveUrl": null,
-      "recordingUrl": null
-    },
-    {
-      "id": "447570",
-      "title": "The Were Creatures of Westharbour Castle - D&D One-shot",
-      "description": "This is a short (2-4 hour) D&D 5e one shot, Furry or non furry characters are welcome. Players are free to bring a character of 3rd level to the table, if not I will have plenty of pre-made sheets to choose from. I am looking for between 5 to 10 players of any experience level.\r\n\r\nYou and your party of fluffy adventurers have ventured to the small fishing hamlet of Equinox, determined to free the town from the scourge that looms over its horizon, the Castle of Westharbour.  This once opulent castle is now the den of countless sinister Lycanthropes. Will you and your friends be able to conquer this dungeon? Or will you join the hordes of were-creatures like so many unfortunate adventurers before you.",
-      "startsAt": "2023-03-19T10:00:00",
-      "endsAt": "2023-03-19T13:00:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "0f5084d3-e629-434e-9062-8bf6f9252309",
-        "822bc6f3-7e74-4c75-8fe0-7ef7feeb9e26"
-      ],
-      "categoryItems": [
-        166557,
-        166562,
-        167664
-      ],
-      "questionAnswers": [],
-      "roomId": 33094,
-      "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436663",
@@ -3307,7 +3551,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "7c2cdf8d-2f5a-43d0-8bdf-1b0049f32023",
@@ -3322,7 +3567,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "437375",
@@ -3343,7 +3589,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442963",
@@ -3364,11 +3611,12 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "8c8b527c-19da-4094-9de6-51dd6eaf6c69",
-      "title": "Early Access - Accessibility",
+      "title": "Dance Competition - Early Access - Accessibility",
       "description": null,
       "startsAt": "2023-03-19T11:30:00",
       "endsAt": "2023-03-19T11:40:00",
@@ -3379,7 +3627,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "437378",
@@ -3400,11 +3649,12 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "88c3d676-7273-4274-8638-f32979cfe993",
-      "title": "Early Access - Benefactor/Supersponsor/Sponsor",
+      "title": "Dance Competition - Early Access - Benefactor/Supersponsor/Sponsor",
       "description": null,
       "startsAt": "2023-03-19T11:40:00",
       "endsAt": "2023-03-19T12:00:00",
@@ -3415,7 +3665,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "438330",
@@ -3436,7 +3687,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447574",
@@ -3458,7 +3710,8 @@
       "questionAnswers": [],
       "roomId": 33095,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437828",
@@ -3479,7 +3732,8 @@
       "questionAnswers": [],
       "roomId": 32384,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "455007",
@@ -3500,7 +3754,8 @@
       "questionAnswers": [],
       "roomId": 32387,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442999",
@@ -3521,7 +3776,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "437854",
@@ -3542,7 +3798,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "447571",
@@ -3564,7 +3821,8 @@
       "questionAnswers": [],
       "roomId": 33094,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436649",
@@ -3585,7 +3843,8 @@
       "questionAnswers": [],
       "roomId": 32380,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "f8491adb-d35e-4c78-a49d-854675d18bde",
@@ -3600,7 +3859,8 @@
       "questionAnswers": [],
       "roomId": 32453,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "442981",
@@ -3621,7 +3881,8 @@
       "questionAnswers": [],
       "roomId": 32385,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442983",
@@ -3642,7 +3903,8 @@
       "questionAnswers": [],
       "roomId": 32381,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "442998",
@@ -3663,7 +3925,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "ce08a158-d5e3-4d9c-80bf-bb8df7bdc165",
@@ -3678,7 +3941,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "efd87d7b-61f8-4597-84e0-47450a41a368",
@@ -3693,7 +3957,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": null
     },
     {
       "id": "436646",
@@ -3714,7 +3979,8 @@
       "questionAnswers": [],
       "roomId": 32043,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436392",
@@ -3735,7 +4001,8 @@
       "questionAnswers": [],
       "roomId": 32044,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     },
     {
       "id": "436660",
@@ -3756,7 +4023,8 @@
       "questionAnswers": [],
       "roomId": 32386,
       "liveUrl": null,
-      "recordingUrl": null
+      "recordingUrl": null,
+      "status": "Accepted"
     }
   ],
   "speakers": [
@@ -4088,27 +4356,6 @@
       ]
     },
     {
-      "id": "0f5084d3-e629-434e-9062-8bf6f9252309",
-      "firstName": "",
-      "lastName": "",
-      "bio": null,
-      "tagLine": null,
-      "profilePicture": null,
-      "isTopSpeaker": false,
-      "links": [],
-      "sessions": [
-        447570
-      ],
-      "fullName": "Braydin Miller",
-      "categoryItems": [],
-      "questionAnswers": [
-        {
-          "questionId": 48803,
-          "answerValue": "He/Him"
-        }
-      ]
-    },
-    {
       "id": "68425d01-720b-47e8-9eb6-d4d178210ec8",
       "firstName": "",
       "lastName": "",
@@ -4190,6 +4437,8 @@
         }
       ],
       "sessions": [
+        462554,
+        462555,
         437263
       ],
       "fullName": "Chevron/Commander A9",
@@ -4688,7 +4937,6 @@
         448282,
         448287,
         447567,
-        447570,
         447574,
         447571
       ],
@@ -4780,8 +5028,8 @@
       "firstName": "",
       "lastName": "",
       "bio": "An Alberta based tiger who will work for beer.",
-      "tagLine": "Questional Used Car Salesman",
-      "profilePicture": "https://sessionize.com/image/90ef-400o400o2-nJypzZN2vBtBEAWkPQAs9T.png",
+      "tagLine": "Questionable Used Car Salesman",
+      "profilePicture": "https://sessionize.com/image/1798-400o400o2-J23eFVHZ6Z2Un6KfAwEYhk.jpg",
       "isTopSpeaker": false,
       "links": [],
       "sessions": [
@@ -4908,15 +5156,11 @@
       "links": [],
       "sessions": [
         436644,
-        442995,
         453140,
         442984,
         442987,
         442931,
-        442994,
-        442933,
         453318,
-        442932,
         442981,
         436646
       ],
@@ -5588,6 +5832,16 @@
       "id": 32453,
       "name": "Metro",
       "sort": 25
+    },
+    {
+      "id": 34147,
+      "name": "Harbour Foyer",
+      "sort": 29
+    },
+    {
+      "id": 34185,
+      "name": "East Wing",
+      "sort": 30
     }
   ]
 }
