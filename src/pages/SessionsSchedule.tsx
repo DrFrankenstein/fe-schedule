@@ -20,7 +20,7 @@ export const SessionsSchedule: React.FC = () => {
         [sessions]
     );
 
-    if (sessionsQuery.isLoading) {
+    if (sessionsQuery.isPending) {
         return <div>Loading&hellip;</div>;
     }
 

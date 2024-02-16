@@ -24,7 +24,7 @@ export const CategoryEnum: React.FC<CategoryEnumProps> = props => {
     const categoriesQuery = useCategories(domain, props.itemIds, props.fieldId);
     const categories = categoriesQuery.categories ?? [];
 
-    if (categoriesQuery.isLoading) {
+    if (categoriesQuery.isPending) {
         return <>Loading&hellip;</>;
     }
 

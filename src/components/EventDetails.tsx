@@ -8,7 +8,7 @@ export interface EventDetailsProps {
 export const EventDetails: React.FC<EventDetailsProps> = props => {
     const eventQuery = useEventData(props.domain);
 
-    if (eventQuery.isLoading) {
+    if (eventQuery.isPending) {
         return <div>Loading&hellip;</div>;
     }
 

@@ -9,7 +9,7 @@ export const Speakers: React.FC = () => {
     const speakersQuery = useSpeakers(domain);
     const speakers = speakersQuery.speakers;
 
-    if (speakersQuery.isLoading) {
+    if (speakersQuery.isPending) {
         return <>Loading&hellip;</>;
     }
 

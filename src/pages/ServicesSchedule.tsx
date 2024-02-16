@@ -8,7 +8,7 @@ export const ServicesSchedule: React.FC = () => {
     const servicesQuery = useServices(domain);
     const services = servicesQuery.services;
 
-    if (servicesQuery.isLoading) {
+    if (servicesQuery.isPending) {
         return <div>Loading&hellip;</div>;
     }
 

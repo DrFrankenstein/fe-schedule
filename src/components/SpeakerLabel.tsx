@@ -12,7 +12,7 @@ export const SpeakerLabel: React.FC<SpeakerLabelProps> = props => {
     const speakerQuery = useSpeaker(domain, props.id);
     const speaker = speakerQuery.speaker;
 
-    if (speakerQuery.isLoading) {
+    if (speakerQuery.isPending) {
         return <>&hellip;</>;
     }
 

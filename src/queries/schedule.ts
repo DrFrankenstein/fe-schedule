@@ -4,7 +4,7 @@ import type { Schedule } from "../models/schedule";
 import { Session } from "../models/session";
 
 export const useSchedule = (domain: string) =>
-    useQuery<Schedule>([domain, "schedule"]);
+    useQuery<Schedule>({ queryKey: [domain, "schedule"] });
 
 const filterSession = (session: Session, filter?: string) =>
     filter === undefined || filter === ""

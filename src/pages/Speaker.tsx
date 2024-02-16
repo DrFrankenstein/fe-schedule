@@ -14,7 +14,7 @@ const SpeakerSessions: React.FC<SpeakerSessionsProps> = props => {
     const sessionsQuery = useSessionsForSpeaker(domain, props.speakerId);
     const sessions = sessionsQuery.sessions;
 
-    if (sessionsQuery.isLoading) {
+    if (sessionsQuery.isPending) {
         return <>Loading sessions&hellip;</>;
     }
 
@@ -35,7 +35,7 @@ export const Speaker: React.FC = () => {
     const speakerQuery = useSpeaker(domain, params.id);
     const speaker = speakerQuery.speaker;
 
-    if (speakerQuery.isLoading) {
+    if (speakerQuery.isPending) {
         return <>Loading&hellip;</>;
     }
 

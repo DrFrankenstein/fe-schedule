@@ -11,7 +11,7 @@ export const RoomLabel: React.FC<RoomLabelProps> = props => {
     const roomQuery = useRoom(domain, props.roomId);
     const room = roomQuery.room;
 
-    if (roomQuery.isLoading) {
+    if (roomQuery.isPending) {
         return <>&hellip;</>;
     }
 

@@ -11,7 +11,7 @@ export const CategoryLabel: React.FC<CategoryLabelProps> = props => {
     const categoryQuery = useCategoryItem(domain, props.itemId);
     const category = categoryQuery.categoryItem;
 
-    if (categoryQuery.isLoading) {
+    if (categoryQuery.isPending) {
         return <>&hellip;</>;
     }
 
