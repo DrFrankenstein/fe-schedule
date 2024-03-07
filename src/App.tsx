@@ -2,7 +2,7 @@ import React from "react";
 import { QueryClientProvider } from "@tanstack/react-query";
 
 import { createQueryClient } from "./queries/query-client";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { Layout } from "./Layout";
 import { EventContext } from "./context/EventContext";
 import { SessionsSchedule } from "./pages/SessionsSchedule";
@@ -16,7 +16,7 @@ const queryClient = createQueryClient();
 const basename = BASENAME;
 
 export const App: React.FC = () =>
-    <BrowserRouter basename={basename}>
+    <HashRouter basename={basename}>
         <QueryClientProvider client={queryClient}>
             <EventContext.Provider value="">
                 <Routes>
@@ -29,4 +29,4 @@ export const App: React.FC = () =>
                 </Routes>
             </EventContext.Provider>
         </QueryClientProvider>
-    </BrowserRouter>;
+    </HashRouter>;
