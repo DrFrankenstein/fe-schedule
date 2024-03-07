@@ -10,13 +10,10 @@ import { ServicesSchedule } from "./pages/ServicesSchedule";
 import { Speakers } from "./pages/Speakers";
 import { Speaker } from "./pages/Speaker";
 
-declare const BASENAME: string;
-
 const queryClient = createQueryClient();
-const basename = BASENAME;
 
 export const App: React.FC = () =>
-    <HashRouter basename={basename}>
+    <HashRouter>
         <QueryClientProvider client={queryClient}>
             <EventContext.Provider value="">
                 <Routes>

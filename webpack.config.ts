@@ -1,10 +1,9 @@
-import { Configuration, DefinePlugin, ProgressPlugin, RuleSetRule } from "webpack";
+import { Configuration, ProgressPlugin, RuleSetRule } from "webpack";
 import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
 
 const isProd = process.env["NODE_ENV"] === "production";
-const isCI = process.env["CI"];
 
 const tsRule: RuleSetRule = {
     test: /\.(ts|tsx)$/,
@@ -31,9 +30,6 @@ const config: Configuration = {
     plugins: [
         new HtmlWebpackPlugin({ template: "index.html" }),
         new MiniCssExtractPlugin(),
-        new DefinePlugin({
-            BASENAME: JSON.stringify(isCI? "/fe-schedule" : "/")
-        }),
         new ProgressPlugin()
     ],
     devServer: {
