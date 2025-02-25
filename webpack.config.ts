@@ -1,4 +1,4 @@
-import { Configuration, ProgressPlugin, RuleSetRule } from "webpack";
+import { type Configuration, ProgressPlugin, type RuleSetRule } from "webpack";
 import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
