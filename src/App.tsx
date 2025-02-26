@@ -2,7 +2,7 @@ import React from "react";
 import { QueryClientProvider } from "@tanstack/react-query";
 
 import { createQueryClient } from "./queries/query-client";
-import { FutureConfig, HashRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { Layout } from "./Layout";
 import { EventContext } from "./context/EventContext";
 import { SessionsSchedule } from "./pages/SessionsSchedule";
@@ -12,13 +12,8 @@ import { Speaker } from "./pages/Speaker";
 
 const queryClient = createQueryClient();
 
-let routerFuture: Partial<FutureConfig> = {
-    v7_relativeSplatPath: true,
-    v7_startTransition: true
-};
-
 export const App: React.FC = () =>
-    <HashRouter future={routerFuture}>
+    <HashRouter>
         <QueryClientProvider client={queryClient}>
             <EventContext.Provider value="">
                 <Routes>
