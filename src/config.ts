@@ -1,1 +1,1 @@
-export const DOMAIN = "furnal-equinox-2024";
+export const DOMAIN = "furnal-equinox-2025";
