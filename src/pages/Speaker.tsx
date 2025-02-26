@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { useParams } from "react-router-dom";
+import { useParams } from "react-router";
 import { SessionTable } from "../components/SessionTable";
 import { EventContext } from "../context/EventContext";
 import { useSessionsForSpeaker } from "../queries/schedule";

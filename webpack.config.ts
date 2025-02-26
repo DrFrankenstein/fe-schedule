@@ -1,11 +1,11 @@
-import { Configuration, ProgressPlugin, RuleSetRule } from "webpack";
+import webpack from "webpack";
 import devserver from "webpack-dev-server";
 import HtmlWebpackPlugin from "html-webpack-plugin";
 import MiniCssExtractPlugin from "mini-css-extract-plugin";
 
 const isProd = process.env["NODE_ENV"] === "production";
 
-const tsRule: RuleSetRule = {
+const tsRule: webpack.RuleSetRule = {
     test: /\.(ts|tsx)$/,
     use: "ts-loader",
 
@@ -15,12 +15,12 @@ const tsRule: RuleSetRule = {
     }
 };
 
-const cssRule: RuleSetRule = {
+const cssRule: webpack.RuleSetRule = {
     test: /\.css$/,
     use: [MiniCssExtractPlugin.loader, "css-loader"]
 }
 
-const config: Configuration = {
+const config: webpack.Configuration = {
     mode: isProd? "production" : "development",
     entry: "./src/index.tsx",
     module: {
@@ -30,7 +30,7 @@ const config: Configuration = {
     plugins: [
         new HtmlWebpackPlugin({ template: "index.html" }),
         new MiniCssExtractPlugin(),
-        new ProgressPlugin()
+        new webpack.ProgressPlugin()
     ],
     devServer: {
         historyApiFallback: true
