@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Link } from "react-router-dom";
+import { Link } from "react-router";
 import { EventContext } from "../context/EventContext";
 import { Speaker } from "../models/speaker";
 import { useSpeakers } from "../queries/speaker";
